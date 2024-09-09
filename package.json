@@ -1,0 +1,15 @@
+{
+  "name": "x",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rushstack/heft": "^0.67.0",
+    "@rushstack/heft-web-rig": "^0.24.29"
+  }
+}
