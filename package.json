@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "@rushstack/heft": "^0.67.0",
-    "@rushstack/heft-web-rig": "^0.24.29"
+    "@rushstack/heft-web-rig": "^0.24.30"
   }
 }
